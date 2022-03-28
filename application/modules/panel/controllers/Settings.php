@@ -4,13 +4,18 @@ if (!defined('BASEPATH')) {
     exit('No direct script access allowed');
 }
 
-/**
- * Setting
- *
- *
- * @package     Repair
- * @category    Controller
- * @author      Urepairern Sher
+/*
+| ----------------------------------------------------------------------------
+| PRODUCT NAME:  CELL PHONE & COMPUTER REPAIRING SHOP MANAGEMENT SYSTEM 
+| ----------------------------------------------------------------------------
+| AUTHOR:        SJ EMPOWERS (PVT) LTD
+| ----------------------------------------------------------------------------
+| EMAIL:         info@sjempowers.com
+| ----------------------------------------------------------------------------
+| COPYRIGHT:     RESERVED BY SJ EMPOWERS (PVT) LTD
+| ----------------------------------------------------------------------------
+| WEBSITE:       https://sjempowers.com
+| ----------------------------------------------------------------------------
 */
 
 class Settings extends Auth_Controller
