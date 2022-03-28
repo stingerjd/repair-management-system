@@ -1,14 +1,18 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
- *  ==============================================================================
- *  Author  : Usman Sher
- *  Email   : uskhan099@gmail.com
- *  For     : PHP QR Code
- *  Web     : http://phpqrcode.sourceforge.net
- *  License : open source (LGPL)
- *  ==============================================================================
- */
+| ----------------------------------------------------------------------------
+| PRODUCT NAME:  CELL PHONE & COMPUTER REPAIRING SHOP MANAGEMENT SYSTEM 
+| ----------------------------------------------------------------------------
+| AUTHOR:        SJ EMPOWERS (PVT) LTD
+| ----------------------------------------------------------------------------
+| EMAIL:         info@sjempowers.com
+| ----------------------------------------------------------------------------
+| COPYRIGHT:     RESERVED BY SJ EMPOWERS (PVT) LTD
+| ----------------------------------------------------------------------------
+| WEBSITE:       https://sjempowers.com
+| ----------------------------------------------------------------------------
+*/
 
 use PHPQRCode\QRcode;
 
